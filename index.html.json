@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Raposas - Beleza Selvagem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fdf6e3;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #ff6f61;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+        }
+        img {
+            display: block;
+            margin: 20px auto;
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        section {
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #eee;
+            text-align: center;
+            padding: 10px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Raposas - Beleza Selvagem</h1>
+    </header>
+    <main>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Vulpes_vulpes_laying_in_snow.jpg" alt="Raposa vermelha na neve">
+        <section>
+            <h2>Sobre as Raposas</h2>
+            <p>As raposas são animais pertencentes à família dos canídeos. São conhecidas por sua inteligência, astúcia e aparência encantadora. Existem várias espécies de raposas ao redor do mundo, sendo a raposa-vermelha (Vulpes vulpes) a mais comum.</p>
+            <p>Elas habitam diversos ambientes, desde florestas até áreas urbanas, e possuem hábitos alimentares onívoros, se alimentando de pequenos animais, frutas e insetos.</p>
+        </section>
+
+        <section>
+            <h2>Curiosidades</h2>
+            <ul>
+                <li>Raposas conseguem ouvir pequenos animais se movendo debaixo da neve.</li>
+                <li>Elas usam a cauda para se aquecer durante o sono e também para se equilibrar.</li>
+                <li>A raposa-do-ártico muda de pelagem conforme a estação para se camuflar.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>Feito com ♥ por um amante de raposas 🦊</p>
+    </footer>
+</body>
+</html>
